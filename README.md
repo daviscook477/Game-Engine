@@ -6,3 +6,8 @@ It uses the lwjgl bindings for OpenGL to draw the 3D graphics. In the course of 
 * How shaders are used to manipulate vertices within vertex shaders and to manipulate pixels in fragment shaders.
 
 The project also used the [slick-util](http://slick.ninjacave.com/slick-util/) library for resource loading (images / textures).
+
+Here's some examples of what the engine could render:
+
+![The example image could not be displayed!](/examples/circles_cel_shaded_00.png?raw=true "Cel Shaded 00")
+![The example image could not be displayed!](/examples/circles_cel_shaded_01.png?raw=true "Cel Shaded 01")
