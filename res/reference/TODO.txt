@@ -1,0 +1,14 @@
+Animation (of parts of models, a whole model can just be manipulated by its modelMatrix) this is for manipulating the individual vertices in the untranslated, unrotated model
+
+Animation file format.
+Application of animation to specific part of model.
+
+Shaders:
+
+some shadow mapping would be cool.
+
+Important:
+
+2d ui overlay
+
+dynamic meshes

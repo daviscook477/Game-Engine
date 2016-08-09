@@ -1,0 +1,8 @@
+Ending: ".model"
+
+Meshes: #MESH
+	-Mesh Definition: $(fileName)
+		-"fileName" the file to load the mesh from
+	-Mesh hierarchy:
+		-Defined by the indentation level (in tabs)
+	
